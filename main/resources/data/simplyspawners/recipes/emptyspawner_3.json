@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xax",
+        "a a",
+        "xax"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "simplyspawners:spawnerfragment"
+        },
+        "a":
+        {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result":
+    {
+        "item": "simplyspawners:emptyspawner",
+        "count": 1
+    }
+}

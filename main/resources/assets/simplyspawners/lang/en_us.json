@@ -1,0 +1,12 @@
+{
+
+	"itemGroup.simplyspawners" : "Simply Spawners",
+	
+	"enchantment.simplyspawners.eggification" : "Eggification",
+	
+	"block.simplyspawners.emptyspawner" : "Empty Spawner",
+	
+	"item.simplyspawners.emptyegg" : "Empty Egg",
+	"item.simplyspawners.spawnerfragment" : "Spawner Fragment"
+
+}
