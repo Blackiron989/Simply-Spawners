@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xyx",
+        "yay",
+        "xyx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "simplyspawners:spawnerfragment"
+        },
+		"y":
+		{
+			"item": "minecraft:iron_ingot"
+		},
+        "a":
+        {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result":
+    {
+        "item": "simplyspawners:emptyspawner",
+        "count": 1
+    }
+}

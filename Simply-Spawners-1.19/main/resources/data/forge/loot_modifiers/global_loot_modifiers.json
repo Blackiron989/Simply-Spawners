@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"entries": [
+		"simplyspawners:bastion_bridge",
+		"simplyspawners:bastion_hoglin_stable",		
+		"simplyspawners:bastion_other",
+		"simplyspawners:bastion_treasure",
+		"simplyspawners:nether_bridge",
+		"simplyspawners:ruined_portal"
+	]
+}

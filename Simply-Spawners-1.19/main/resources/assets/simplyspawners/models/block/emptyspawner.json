@@ -1,0 +1,13 @@
+{
+
+	"parent": "block/cube_all",
+	"render_type": "cutout",
+	"textures": {
+	
+		"all": "simplyspawners:blocks/emptyspawner"
+		
+		
+	}
+	
+	
+}

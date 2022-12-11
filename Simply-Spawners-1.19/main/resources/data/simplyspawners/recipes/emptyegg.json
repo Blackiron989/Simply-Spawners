@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"tag": "simplyspawners:spawn_eggs"
+		},
+		{
+			"item": "minecraft:chorus_fruit"
+		}
+	],
+    "result":
+    {
+        "item": "simplyspawners:emptyegg",
+        "count": 1
+    }
+}
